@@ -12,5 +12,8 @@ The game is divided into several levels, and once a player moves from one level 
 
 ## Art style
 The art style of this game is a combination of collage and hand-drawn elements. The background is a collage of several different materials, resembling patchwork made from various patterned fabrics and old paper. The interactive objects are simple black-line art that pops up on the background collage so that the player can distinguish them easily. The collectable items are a combination of both styles, a photo of an existing object with a black outline. The inventory will be drawn in the black-line art style and located on the edge of the screen so that it won't interfere with the game. 
+
+![pocket_Journey_art_style](https://github.com/user-attachments/assets/ecc7235c-f997-49b0-8066-0b9e5ced1cc2)
+
 ## Music
 The music style will be acoustic folk evoking cozy and homemade feeling. The main instruments will be acoustic guitar combined with ukulele, light percussion and gentle piano melodies. 
