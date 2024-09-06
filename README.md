@@ -8,9 +8,9 @@ The game is a 2D adventure where the player controls a small elf who has fallen 
 ## Gameplay
 The player moves using **WASD** in a 2D platform world, and can collect objects by clicking on them. The player's inventory is displayed at the top of the screen. Crafting involves dragging objects from the inventory and combining them.
 
-The game is divided into several levels, and once a player moves from one level to the next, they cannot go back. Additionally, if the player needs an item from a previous level, they won't be able to leave the previous level without it. At the end of each level, there is a 'door' that automatically moves the player forward; there is no GUI indicating that the level has been completed. The game is designed to feel like one continuous journey. Levels act as checkpoints to prevent the player from having to retrace long sections of the game.
-
+The game is divided into several levels, and once a player moves from one level to the next, they cannot go back. Additionally, if the player needs an item from a previous level, they won't be able to leave the previous level without it. At the end of each level, there is a 'door' that automatically moves the player forward; no GUI indicates that the level has been completed. The game is designed to feel like one continuous journey. Levels act as checkpoints to prevent the player from having to retrace long sections of the game.
 
 ## Art style
-
+The art style of this game is a combination of collage and hand-drawn elements. The background is a collage of several different materials, resembling patchwork made from various patterned fabrics and old paper. The interactive objects are simple black-line art that pops up on the background collage so that the player can distinguish them easily. The collectable items are a combination of both styles, a photo of an existing object with a black outline. The inventory will be drawn in the black-line art style and located on the edge of the screen so that it won't interfere with the game. 
 ## Music
+The music style will be acoustic folk evoking cozy and homemade feeling. The main instruments will be acoustic guitar combined with ukulele, light percussion and gentle piano melodies. 
